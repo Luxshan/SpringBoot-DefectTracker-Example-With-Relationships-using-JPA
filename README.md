@@ -7,7 +7,7 @@ POST http://localhost:8080/projects
 
 PUT http://localhost:8080/projects/{id}  -> project need to be created first
 	
-DELETE http://localhost:8080/projects{id} -> it will delete all the relationship data as well
+DELETE http://localhost:8080/projects/{id} -> it will delete all the relationship data as well
 
 
 
